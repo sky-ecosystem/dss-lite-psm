@@ -196,3 +196,14 @@ forge test -vvv
 [auto-line]: https://etherscan.io/address/0xc7bdd1f2b16447dcf3de045c4a039a60ec2f0ba3
 [gem-join-8]: https://github.com/makerdao/dss-psm/blob/master/src/join-8-auth.sol#L36
 [weird-erc20]: https://github.com/d-xo/weird-erc20/#missing-return-values
+
+## Audits
+
+Audit reports are hosted on the auditors' public portfolio pages:
+
+| Auditor | Report | Date |
+| --- | --- | --- |
+| ChainSecurity | [MakerDAO PSM Lite](https://www.chainsecurity.com/security-audit/makerdao-psm-lite/) | 2024-07-04 |
+| Cantina | [dss-lite-psm](https://cantina.xyz/portfolio/53e12fbd-182a-45f9-a115-55fdea33c5c4) | 2023-10-25 |
+
+ChainSecurity reports are cumulative: each portfolio page hosts the latest version of the report, which covers all previously reviewed versions.
